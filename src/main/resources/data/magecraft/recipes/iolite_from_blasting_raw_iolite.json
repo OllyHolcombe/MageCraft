@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "iolite",
+  "ingredient": {
+    "item": "magecraft:raw_iolite"
+  },
+  "result": "magecraft:iolite"
+}
