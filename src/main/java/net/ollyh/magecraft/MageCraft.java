@@ -13,7 +13,7 @@ import net.ollyh.magecraft.items.ModItems;
 import net.ollyh.magecraft.world.feature.ModConfiguredFeatures;
 import net.ollyh.magecraft.world.feature.ModPlacedFeatures;
 import org.slf4j.Logger;
-import software.bernie.geckolib3.GeckoLib;
+
 
 @Mod(net.ollyh.magecraft.MageCraft.MOD_ID)
 public class MageCraft
