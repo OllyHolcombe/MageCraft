@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "magecraft:block/soul_wood_sapling"
+  },
+  "render_type": "cutout"
+}

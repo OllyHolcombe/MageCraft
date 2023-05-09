@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "magecraft:polished_iolite"
+    },
+    "X": {
+      "item": "magecraft:arcana_heart"
+    },
+    "O": {
+      "item": "magecraft:amber"
+    }
+  },
+  "pattern": [
+    "#O#",
+    "OXO",
+    "#O#"
+  ],
+  "result": {
+    "item": "magecraft:arcana_key"
+  }
+}

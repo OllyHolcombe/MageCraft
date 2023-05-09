@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iolite",
+  "ingredients": [
+    {
+      "item": "magecraft:iolite"
+    },
+    {
+      "item": "magecraft:iolite"
+    },
+    {
+      "item": "magecraft:iolite"
+    },
+    {
+      "item": "magecraft:iolite"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "magecraft:polished_iolite"
+  }
+}

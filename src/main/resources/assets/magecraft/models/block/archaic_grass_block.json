@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "magecraft:block/archaic_dirt",
+    "side": "magecraft:block/archaic_grass_block_side",
+    "top": "magecraft:block/archaic_grass_block_top"
+  }
+}

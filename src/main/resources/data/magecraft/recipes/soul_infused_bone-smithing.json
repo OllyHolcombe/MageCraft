@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "magecraft:archaic_soul"
+  },
+  "base": {
+    "item": "minecraft:bone"
+  },
+  "result": {
+    "item": "magecraft:soul_infused_bone"
+  }
+}

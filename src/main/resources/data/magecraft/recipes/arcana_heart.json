@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "magecraft:soul_infused_bone"
+    },
+    "X": {
+      "item": "magecraft:archaic_soul"
+    },
+    "O": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "pattern": [
+    "O O",
+    "#X#",
+    " O "
+  ],
+  "result": {
+    "item": "magecraft:arcana_heart"
+  }
+}

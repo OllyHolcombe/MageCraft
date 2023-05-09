@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "magecraft::block/soul_wood_log",
+    "side": "magecraft::block/soul_wood_log"
+  }
+}

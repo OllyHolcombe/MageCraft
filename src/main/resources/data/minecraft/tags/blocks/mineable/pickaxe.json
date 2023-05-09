@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "magecraft:iolite_ore",
+    "magecraft:deepslate_iolite_ore",
+    "magecraft:iolite_block",
+    "magecraft:polished_iolite_block",
+    "magecraft:amber_ore",
+    "magecraft:deepslate_amber_ore",
+    "magecraft:amber_block"
+  ]
+}

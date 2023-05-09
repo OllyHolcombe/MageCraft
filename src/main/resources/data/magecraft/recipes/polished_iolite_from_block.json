@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "magecraft:polished_iolite_block"
+    }
+  ],
+  "result": {
+    "item": "magecraft:polished_iolite",
+    "count": 9
+  }
+}
